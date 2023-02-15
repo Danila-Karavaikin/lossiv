@@ -1,3 +1,4 @@
+#змейка
 from tkinter import *
 
 # Создаем окно
