@@ -14,7 +14,8 @@ HEIGHT = 600
 SEG_SIZE = 20
 # Переменная отвечающая за состояние игры
 IN_GAME = True
-c = Canvas(root, width=WIDTH, height=HEIGHT, bg="#003300")
+c = Canvas(root, width=WIDTH, height=HEIGHT, bg="#999")
+
 c.grid()
 # создаем набор сегментов
 
